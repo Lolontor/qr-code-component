@@ -17,7 +17,7 @@ This is a frontend mentor challenge which helps to put learned skills in practic
 
 ### Screenshot
 
-![](./screenshot/screenshot.pdf)
+[screenshot](./screenshot/screenshot.pdf)
 
 
 ### Links
