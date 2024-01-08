@@ -40,7 +40,7 @@ This is a frontend mentor challenge which helps to put learned skills in practic
 
 
 - Frontend Mentor - [@Lolontor](https://www.frontendmentor.io/profile/Lolontor)
-- freeCodeCamp - [@Mawulolo Kwame](https://www.freecodecamp.org/elolontor)
-- linkedin - [@](https://www.linkedin.com/in/mawulolo-kwame-b54a171a1)
+- freeCodeCamp - [@elolontor](https://www.freecodecamp.org/elolontor)
+- linkedin - [@Mawulolo Kwame](https://www.linkedin.com/in/mawulolo-kwame-b54a171a1)
 
 
