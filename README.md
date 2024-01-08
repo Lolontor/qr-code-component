@@ -23,7 +23,7 @@ This is a frontend mentor challenge which helps to put learned skills in practic
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github pages](https://lolontor.github.io/qr-code-component/)
 
 
 
