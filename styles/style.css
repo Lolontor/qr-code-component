@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 :root{
     --white: hsl(0, 0%, 100%);
@@ -8,24 +13,22 @@
 }
 
 body{
-    width: 100%;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    min-height: 100vh;
     background-color: var(--lightGray);
     font-family: 'Outfit', sans-serif;
     font-size: 11px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-#container{
-    max-width: 260px;
+.container{
+    max-width: 17.5rem;
     background-color: var(--white);
     text-align: center;
     padding: 15px;
-    margin: auto;
+
 }
 
 .round-edge{
@@ -33,7 +36,8 @@ body{
 }
 
 img{
-    width: 260px;
+    display: block;
+    max-width: 100%;
 }
 
 .text{
@@ -49,7 +53,7 @@ img{
     font-weight: 600;
     color: var(--grayishBlue);
     padding-inline: 20px;
-    font-size: 12px;
+    font-size: .9rem;
     
 }
 
