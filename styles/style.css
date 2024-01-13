@@ -16,12 +16,12 @@ body{
     min-height: 100vh;
     background-color: var(--lightGray);
     font-family: 'Outfit', sans-serif;
-    font-size: 11px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 3rem;
+    font-size: 11px;
 }
 
 .container{
@@ -41,22 +41,17 @@ img{
     max-width: 100%;
 }
 
-.text{
-    font-size: 11px;
-}
 
 .text h1{
     font-weight: 700;
     color: var(--darkBlue);
-    margin-block:1rem;
+    margin-block:.6rem;
 }
 
 .text p{
-    font-weight: 600;
+    font-weight: 400;
     color: var(--grayishBlue);
-    padding-inline: 20px;
-    font-size: .9rem;
-    
+    font-size: .9rem;   
 }
 
 .attribution { 
